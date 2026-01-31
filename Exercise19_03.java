@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 /**
  * Exercise 19.3: Distinct elements in ArrayList
- * 
+ * Name: Karan Modi
  * Write a generic method that returns a new ArrayList.
  * The new list contains the nonduplicate elements from the original list.
  */
